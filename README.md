@@ -1,29 +1,8 @@
-# 💾 Repositório de Dicas e Snippets SQL
+# 💾 Repositório de dicas úteis e Snippets SQL
 
 Este repositório tem como objetivo reunir **dicas úteis, funções SQL, snippets, comandos avançados, boas práticas e anotações** relacionadas ao uso de SQL em diversos bancos de dados, como **MySQL, PostgreSQL, SQLite, SQL Server**, entre outros.
 
-> ✅ Ideal para consultas rápidas, estudo, apoio no trabalho e organização de conhecimento pessoal.
-
----
-
-## 📂 Estrutura do Repositório
-
-```
-📁 sql-dicas/
-├── README.md
-├── mysql/
-│   ├── funcoes-uteis.sql
-│   ├── comandos-avancados.sql
-│   └── boas-praticas.md
-├── postgresql/
-│   ├── snippets.sql
-│   ├── window-functions.sql
-│   └── manipulacao-json.sql
-├── geral/
-│   ├── modelagem-relacional.md
-│   ├── normalizacao.md
-│   └── cheatsheet.md
-```
+> ✅ Ideal para consultas rápidas, estudo e apoio no seu trabalho diário e organização de conhecimento pessoal.
 
 ---
 
@@ -86,8 +65,8 @@ Este projeto está licenciado sob a [MIT License](LICENSE).
 ## 🤝 Autor
 
 **Flávio Kowalske**  
-🔗 [LinkedIn](https://www.linkedin.com/in/flavio-kowalske)  
-📫 Email: seuemail@dominio.com
+🔗 [LinkedIn](https://www.linkedin.com/in/flaviokowalske)  
+📫 Email: flaviokowalske@zero32.com.br
 
 ---
 
